@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cdcd8f7-08b5-421c-8340-7570d5fe00aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UfWfpjnKyyxv8XtTHJfins0FW3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.15. 3Sum">
+    <configuration name="11. Container With Most Water" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dummy_leetcode_solution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11. Container With Most Water.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15. 3Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dummy_leetcode_solution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. 3Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4. Median of Two Sorted Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dummy_leetcode_solution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Median of Two Sorted Arrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6. ZigZag Conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dummy_leetcode_solution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. ZigZag Conversion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8. String to Integer (atoi)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dummy_leetcode_solution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. String to Integer (atoi).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.15. 3Sum" />
+        <item itemvalue="Python.11. Container With Most Water" />
+        <item itemvalue="Python.8. String to Integer (atoi)" />
+        <item itemvalue="Python.6. ZigZag Conversion" />
+        <item itemvalue="Python.4. Median of Two Sorted Arrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cdcd8f7-08b5-421c-8340-7570d5fe00aa" name="Default Changelist" comment="" />
+      <created>1575748235254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575748235254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1373" height="285" key="GridCell.Tab.0.bottom" timestamp="1581037416520">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state width="1373" height="163" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575938634901" />
+    <state width="1373" height="285" key="GridCell.Tab.0.bottom/65.25.1855.1055@65.25.1855.1055" timestamp="1581037416520" />
+    <state width="1373" height="285" key="GridCell.Tab.0.center" timestamp="1581037416520">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state width="1373" height="163" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575938634901" />
+    <state width="1373" height="285" key="GridCell.Tab.0.center/65.25.1855.1055@65.25.1855.1055" timestamp="1581037416520" />
+    <state width="1373" height="285" key="GridCell.Tab.0.left" timestamp="1581037416520">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state width="1373" height="163" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575938634901" />
+    <state width="1373" height="285" key="GridCell.Tab.0.left/65.25.1855.1055@65.25.1855.1055" timestamp="1581037416520" />
+    <state width="1373" height="285" key="GridCell.Tab.0.right" timestamp="1581037416520">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state width="1373" height="163" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575938634901" />
+    <state width="1373" height="285" key="GridCell.Tab.0.right/65.25.1855.1055@65.25.1855.1055" timestamp="1581037416520" />
+    <state width="1373" height="285" key="GridCell.Tab.1.bottom" timestamp="1581037416520">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state width="1373" height="285" key="GridCell.Tab.1.bottom/65.25.1855.1055@65.25.1855.1055" timestamp="1581037416520" />
+    <state width="1373" height="285" key="GridCell.Tab.1.center" timestamp="1581037416520">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state width="1373" height="285" key="GridCell.Tab.1.center/65.25.1855.1055@65.25.1855.1055" timestamp="1581037416520" />
+    <state width="1373" height="285" key="GridCell.Tab.1.left" timestamp="1581037416520">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state width="1373" height="285" key="GridCell.Tab.1.left/65.25.1855.1055@65.25.1855.1055" timestamp="1581037416520" />
+    <state width="1373" height="285" key="GridCell.Tab.1.right" timestamp="1581037416520">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state width="1373" height="285" key="GridCell.Tab.1.right/65.25.1855.1055@65.25.1855.1055" timestamp="1581037416520" />
+    <state x="617" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1580659974296">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="617" y="316" key="com.intellij.ide.util.TipDialog/65.25.1855.1055@65.25.1855.1055" timestamp="1580659974296" />
+    <state x="521" y="242" width="1099" height="518" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580848033758">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="521" y="242" width="1099" height="518" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/65.25.1855.1055@65.25.1855.1055" timestamp="1580848033758" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Median of Two Sorted Arrays.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. ZigZag Conversion.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. String to Integer (atoi).py</url>
+          <line>31</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. String to Integer (atoi).py</url>
+          <line>7</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. String to Integer (atoi).py</url>
+          <line>8</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. 3Sum.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. 3Sum.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
