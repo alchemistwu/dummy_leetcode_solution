@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cdcd8f7-08b5-421c-8340-7570d5fe00aa" name="Default Changelist" comment="" />
+    <list default="true" id="5cdcd8f7-08b5-421c-8340-7570d5fe00aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UfWfpjnKyyxv8XtTHJfins0FW3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +29,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../paper_sequence_protein/project/PPP_v1" />
   </component>
   <component name="RunManager" selected="Python.15. 3Sum">
     <configuration name="11. Container With Most Water" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -166,6 +174,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="733" y="212" width="424" height="480" key="FileChooserDialogImpl" timestamp="1581518357248">
+      <screen x="65" y="25" width="1855" height="1055" />
+    </state>
+    <state x="733" y="212" width="424" height="480" key="FileChooserDialogImpl/65.25.1855.1055@65.25.1855.1055" timestamp="1581518357248" />
     <state width="1373" height="285" key="GridCell.Tab.0.bottom" timestamp="1581037416520">
       <screen x="65" y="25" width="1855" height="1055" />
     </state>
